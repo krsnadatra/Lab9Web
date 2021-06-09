@@ -76,11 +76,6 @@ TI 19 A2
 ```
 ![LANGKAH 6](https://user-images.githubusercontent.com/22215113/120469974-359b1500-c3cd-11eb-9422-ecaeb2e45232.png)
 
-## HASIL
-Home
-![HASIL HOME](https://user-images.githubusercontent.com/22215113/120470132-67ac7700-c3cd-11eb-8f2b-9649a39f949b.png)
-About
-![HASIL ABOUT](https://user-images.githubusercontent.com/22215113/120470140-6a0ed100-c3cd-11eb-807b-a606fd09e5d2.png)
 
 ## TUGAS
 ### Implementasikan konsep modularisasi pada kode program `praktikum 8` tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
